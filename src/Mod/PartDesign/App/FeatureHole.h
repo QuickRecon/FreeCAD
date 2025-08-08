@@ -92,7 +92,7 @@ public:
         double pitch;
         double CoreHole;
     };
-    static const ThreadDescription threadDescription[][171];
+    static const ThreadDescription threadDescription[][173];
 
     static const double metricHoleDiameters[36][4];
 

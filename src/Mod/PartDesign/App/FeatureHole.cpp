@@ -82,7 +82,7 @@ const char* Hole::ThreadClass_None_Enums[]           = { "None", nullptr };
 
 */
 
-const Hole::ThreadDescription Hole::threadDescription[][171] =
+const Hole::ThreadDescription Hole::threadDescription[][173] =
 {
     /* None */
     {
@@ -209,6 +209,7 @@ const Hole::ThreadDescription Hole::threadDescription[][171] =
         { "M36x1.5",   36.0, 1.50, 34.50 },
         { "M36x2.0",   36.0, 2.00, 34.00 },
         { "M36x3.0",   36.0, 3.00, 33.00 },
+        { "M38x1.0",   38.0, 1.00, 37.00 },
         { "M39x1.5",   39.0, 1.50, 37.50 },
         { "M39x2.0",   39.0, 2.00, 37.00 },
         { "M39x3.0",   39.0, 3.00, 36.00 },
@@ -518,7 +519,7 @@ const char* Hole::ThreadSize_ISOmetricfine_Enums[]   = {
     "M30x1.0",     "M30x1.5",     "M30x2.0",     "M30x3.0",
     "M32x1.5",     "M32x2.0",     "M33x1.5",     "M33x2.0",
     "M33x3.0",     "M35x1.5",     "M35x2.0",     "M36x1.5",
-    "M36x2.0",     "M36x3.0",     "M39x1.5",     "M39x2.0",
+    "M36x2.0",     "M36x3.0",     "M38x1.0",     "M39x1.5",     "M39x2.0",
     "M39x3.0",     "M40x1.5",     "M40x2.0",     "M40x3.0",
     "M42x1.5",     "M42x2.0",     "M42x3.0",     "M42x4.0",
     "M45x1.5",     "M45x2.0",     "M45x3.0",     "M45x4.0",
